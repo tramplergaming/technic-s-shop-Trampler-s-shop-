@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "магазин по продаже техники Меделян Евгений", "магазин по продаже техники Меделян Евгений.vcxproj", "{8B3A9AA2-C9DE-449A-92C3-D26EE15B9533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B3A9AA2-C9DE-449A-92C3-D26EE15B9533}.Debug|x64.ActiveCfg = Debug|x64
+		{8B3A9AA2-C9DE-449A-92C3-D26EE15B9533}.Debug|x64.Build.0 = Debug|x64
+		{8B3A9AA2-C9DE-449A-92C3-D26EE15B9533}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B3A9AA2-C9DE-449A-92C3-D26EE15B9533}.Debug|x86.Build.0 = Debug|Win32
+		{8B3A9AA2-C9DE-449A-92C3-D26EE15B9533}.Release|x64.ActiveCfg = Release|x64
+		{8B3A9AA2-C9DE-449A-92C3-D26EE15B9533}.Release|x64.Build.0 = Release|x64
+		{8B3A9AA2-C9DE-449A-92C3-D26EE15B9533}.Release|x86.ActiveCfg = Release|Win32
+		{8B3A9AA2-C9DE-449A-92C3-D26EE15B9533}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304FCFDE-610F-44BF-B63D-F623CBEF63F2}
+	EndGlobalSection
+EndGlobal
